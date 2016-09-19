@@ -1,3 +1,3 @@
 # Blender
-blender  for  mac  APP下载
+blender  for  mac
 下载解压直接放到Application中使用
